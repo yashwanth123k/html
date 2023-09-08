@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(14, 20, 1);
+}
+h1{
+    color: coral;
+    text-align: center;
+}
+tr{
+    color: burlywood;
+}
+td{
+    color: blue;
+}
+table{
+    color: rgb(18, 205, 11);
+}

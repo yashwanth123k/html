@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+p{
+    color: azure;
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color: rgb(207, 154, 8);
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#para1{
+    color: aqua;
+    text-align: center; 
+}
+u.center{
+    text-align: center;  color: blue; margin-left: 45%;
+}
+
